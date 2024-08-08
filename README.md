@@ -1,19 +1,19 @@
 # ![header](https://github.com/charlesLoder/charlesLoder/blob/main/assets/github-banner.png)
 
 <p align='center'>
-    <a href="https://dev.to/charlesloder">
+    <a href="https://dev.to/charlesloder" style="color: black;">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/dev-black.png">
     </a>&nbsp;
-    <a href="https://x.com/charles_loder">
+    <a href="https://x.com/charles_loder" style="color: black;">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/x.png?raw=true">
     </a>&nbsp;
-    <a href="https://independentresearcher.academia.edu/CharlesLoder">
+    <a href="https://independentresearcher.academia.edu/CharlesLoder" style="color: black;">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/academia.png?raw=true">
     </a>&nbsp;
-    <a href="https://buymeacoffee.com/charlesloder/c/9773737">
+    <a href="https://buymeacoffee.com/charlesloder/c/9773737" style="color: black;">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/bmc-logo-yellow.png?raw=true">
     </a>&nbsp;
-    <a href="https://www.linkedin.com/in/charles-loder/">
+    <a href="https://www.linkedin.com/in/charles-loder/" style="color: black;">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/LI-In-Bug.png?raw=true">
     </a>
 </p>
