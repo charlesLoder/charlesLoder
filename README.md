@@ -3,18 +3,18 @@
 <p align='center'>
     <a href="https://dev.to/charlesloder">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/dev-black.png">
-    </a>
+    </a>&nbsp;
     <a href="https://x.com/charles_loder">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/x.png?raw=true">
-    </a>
+    </a>&nbsp;
     <a href="https://independentresearcher.academia.edu/CharlesLoder">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/academia.png?raw=true">
-    </a>
+    </a>&nbsp;
     <a href="https://buymeacoffee.com/charlesloder/c/9773737">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/bmc-logo-yellow.png?raw=true">
-    </a>
+    </a>&nbsp;
     <a href="https://www.linkedin.com/in/charles-loder/">
-        <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/LI-In-Nug.png?raw=true">
+        <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/LI-In-Bug.png?raw=true">
     </a>
 </p>
 
