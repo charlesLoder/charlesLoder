@@ -1,8 +1,8 @@
-# ![header](https://raw.githubusercontent.com/charlesLoder/charlesLoder/main/assets/github-bannner.png)
+# ![header](https://github.com/charlesLoder/charlesLoder/blob/main/assets/github-banner.png)
 
 <p align='center'>
     <a href="https://dev.to/charlesloder">
-        <img height="30" src="https://raw.githubusercontent.com/charlesLoder/charlesLoder/main/assets/dev-black.png">
+        <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/dev-black.png">
     </a>
     <a href="https://x.com/charles_loder">
         <img height="30" src="https://github.com/charlesLoder/charlesLoder/blob/main/assets/x.png?raw=true">
