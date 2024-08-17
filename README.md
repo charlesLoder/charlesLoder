@@ -31,7 +31,7 @@ I love working on the web. The whole stack is fun! From databases to servers to 
 **Some web things I'm proud of 🎉**
 
 - The docs for the [transliteration library](https://github.com/charlesLoder/hebrew-transliteration); all the docs are written as doc comments and Typescript types, and the build pipeline converts it to an Astro site using Starlight.
-- A [full stack, MVC app](https://github.com/charlesLoder/hebrew-transliteration) written from the ground up; I used some new tech like Drizzle and Hono and some old tech like Sqlite to build an MVC app from the ground up. It was a fun learning experience.
+- A [full stack, MVC app](https://github.com/charlesLoder/mvc-library) written from the ground up; I used some new tech like Drizzle and Hono and some old tech like Sqlite to build an MVC app from the ground up. It was a fun learning experience.
 - This [blog post](https://dev.to/charlesloder/modern-css-hamburger-using-has-2ijc) on using the new CSS `:has()` selector to create a modern hamburger menu.
 
 ## Hebraist
@@ -41,7 +41,7 @@ My background is in historical linguistics, particularly Biblical Hebrew. I wrot
 **Some Hebrew things I'm proud of 🎉**
 
 - The [transliteration library](https://github.com/charlesLoder/hebrew-transliteration). I've worked on this library as long as I've been coding. It's gone from a script tag to a fully typed, CJS and ESM compatible library.
-- The syllabification library [havarotjs](https://github.com/charlesLoder?page=1&tab=repositories) which is a dependency  of the transliteration library.
+- The syllabification library [havarotjs](https://github.com/charlesLoder/havarotjs) which is a dependency  of the transliteration library.
 - A [published paper on Phoenician](https://www.academia.edu/40245436/THE_SHORT_FORM_OF_THE_PHOENICIAN_FIRST_PERSON_INDEPENDENT_PRONOUN_REASSESSED_PREPUB_).
 
 ## Problem Solver
