@@ -48,3 +48,7 @@ My background is in historical linguistics, particularly Biblical Hebrew. I wrot
 ## Problem Solver
 
 What draws the two above together is my love of solving problems. Whether it is making a complex app or creating simple components, wherever there is a challenge, I want to solve it!
+
+**Some solutions I'm proud of 🎉**
+
+- This [collection of notebooks on stylometry](https://github.com/charlesLoder/stylometry) using fine-tuning of AI models to help solve the issue of how to get library style image descriptions to use as metadata.
