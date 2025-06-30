@@ -30,10 +30,9 @@ I love working on the web. The whole stack is fun! From databases to servers to 
 
 **Some web things I'm proud of 🎉**
 
-- This [example of using a scroll driven animation](https://codepen.io/charles-loder/pen/jOjJboP?editors=0100) ⚙️
+- The [clover-ai](https://github.com/charlesLoder/clover-ai) plugin. It is a plugin for the Clover-IIIF image viewer, that allows users to chat with a model about an work, and consumers can bring any model they want.
 - The docs for the [transliteration library](https://github.com/charlesLoder/hebrew-transliteration); all the docs are written as doc comments and Typescript types, and the build pipeline converts it to an Astro site using Starlight.
 - A [full stack, MVC app](https://github.com/charlesLoder/mvc-library) written from the ground up; I used some new tech like Drizzle and Hono and some old tech like Sqlite to build an MVC app from the ground up. It was a fun learning experience.
-- This [blog post](https://dev.to/charlesloder/modern-css-hamburger-using-has-2ijc) on using the new CSS `:has()` selector to create a modern hamburger menu.
 
 ## Hebraist
 
