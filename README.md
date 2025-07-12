@@ -30,9 +30,9 @@ I love working on the web. The whole stack is fun! From databases to servers to 
 
 **Some web things I'm proud of 🎉**
 
+- The [clover-ai](https://github.com/charlesLoder/clover-ai) plugin. It is a plugin for the Clover-IIIF image viewer, that allows users to chat with a model about an work, and consumers can bring any model they want.
 - The docs for the [transliteration library](https://github.com/charlesLoder/hebrew-transliteration); all the docs are written as doc comments and Typescript types, and the build pipeline converts it to an Astro site using Starlight.
-- A [full stack, MVC app](https://github.com/charlesLoder/hebrew-transliteration) written from the ground up; I used some new tech like Drizzle and Hono and some old tech like Sqlite to build an MVC app from the ground up. It was a fun learning experience.
-- This [blog post](https://dev.to/charlesloder/modern-css-hamburger-using-has-2ijc) on using the new CSS `:has()` selector to create a modern hamburger menu.
+- A [full stack, MVC app](https://github.com/charlesLoder/mvc-library) written from the ground up; I used some new tech like Drizzle and Hono and some old tech like Sqlite to build an MVC app from the ground up. It was a fun learning experience.
 
 ## Hebraist
 
@@ -41,9 +41,13 @@ My background is in historical linguistics, particularly Biblical Hebrew. I wrot
 **Some Hebrew things I'm proud of 🎉**
 
 - The [transliteration library](https://github.com/charlesLoder/hebrew-transliteration). I've worked on this library as long as I've been coding. It's gone from a script tag to a fully typed, CJS and ESM compatible library.
-- The syllabification library [havarotjs](https://github.com/charlesLoder?page=1&tab=repositories) which is a dependency  of the transliteration library.
+- The syllabification library [havarotjs](https://github.com/charlesLoder/havarotjs) which is a dependency  of the transliteration library.
 - A [published paper on Phoenician](https://www.academia.edu/40245436/THE_SHORT_FORM_OF_THE_PHOENICIAN_FIRST_PERSON_INDEPENDENT_PRONOUN_REASSESSED_PREPUB_).
 
 ## Problem Solver
 
 What draws the two above together is my love of solving problems. Whether it is making a complex app or creating simple components, wherever there is a challenge, I want to solve it!
+
+**Some solutions I'm proud of 🎉**
+
+- This [collection of notebooks on stylometry](https://github.com/charlesLoder/stylometry) using fine-tuning of AI models to help solve the issue of how to get library style image descriptions to use as metadata.
