@@ -18,10 +18,6 @@
     </a>
 </p>
 
-> [!IMPORTANT]  
-> Due to US federal cuts, I am actively seeking a new role.
-> Reach out if you like my work!
-
 ## Hey, I'm Charles
 
 I'm a web developer with a background in Biblical Hebrew — which explains why my Github may seem a little strange to you.
